@@ -126,13 +126,7 @@ Aca podemos ver el funcionamiento del servicio
 
 ### Video
 
-<figure class="video_container">
-  <video controls="true" allowfullscreen="true">
-    <source src="/img/test.mp4" type="video/mp4">
-  </video>
-</figure>
-
-
+[![Evidencia](https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/71px-YouTube_full-color_icon_%282017%29.svg.png)](https://www.youtube.com/watch?v=8MCuglESuhY&ab_channel=damiangarridoflorez)
 
 ## Autor
 [Johan Damian Garrido Florez](https://github.com/DamGaFlo)
